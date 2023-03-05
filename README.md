@@ -8,6 +8,10 @@ The main inspiration for this project is [Fomri's Cowabunga Pack](https://github
 
 ⚠ I didn't steal anything from his pack ⚠
 
+## Contact
+
+My discord is Diino#2936 if you have any issues or just want to ask something.
+
 ## Things to do
 
 - [x]  Add more themes
