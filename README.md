@@ -1,6 +1,6 @@
 # Cowabunga Themes
 
-This is a little project for cowabunga users, right now it contains 10 themes but I'll add more when I have free time. When I figure out more stuff I'll add custom operators and other stuff, I might add stuff for FileSwitcherPro too.
+This is a little project for cowabunga users, right now it contains 1w themes but I might add more the future (prolly not though). I was planning to add more stuff like fonts and custom operations but I'll be making a misaka repo since it is easier to use and I really like the application and I also couldn't figure out how to port fonts to ios.
 
 # Credit
 
@@ -11,9 +11,3 @@ The main inspiration for this project is [Fomri's Cowabunga Pack](https://github
 ## Contact
 
 My discord is Diino#2936 if you have any issues or just want to ask something.
-
-## Things to do
-
-- [x]  Add more themes
-- [ ]  Add custom operators
-- [ ]  Add fonts
